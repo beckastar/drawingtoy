@@ -1,0 +1,10 @@
+
+#canvasdiv {
+	width: 490px;
+	height: 220px;
+	background-color: gray;
+	position: relative;
+	left: 20%;
+	top: 50%;
+}
+
